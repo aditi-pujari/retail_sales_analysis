@@ -1,0 +1,801 @@
+sale_id,sale_date,product_name,category,quantity,price
+1,2025-11-24,Headphones,Electronics,1,2230.15
+2,2025-10-30,Backpack,Accessories,1,823.87
+3,2025-11-29,Desk Lamp,Home,2,1397.42
+4,2025-06-24,TShirt,Clothing,1,969.05
+5,2025-02-19,Sneakers,Footwear,4,4819.49
+6,2025-07-13,Keyboard,Electronics,2,3022.33
+7,2025-12-27,Keyboard,Electronics,1,1338.12
+8,2025-07-14,TShirt,Clothing,2,882.88
+9,2025-12-10,TShirt,Clothing,3,777.48
+10,2025-03-25,Wallet,Accessories,2,1981.19
+11,2025-04-28,Mouse,Electronics,4,781.4
+12,2025-04-19,Notebook,Stationery,2,168.04
+13,2025-05-07,Desk Lamp,Home,2,1993.03
+14,2025-03-12,Pen Pack,Stationery,2,238.95
+15,2025-11-02,Keyboard,Electronics,2,2368.49
+16,2025-12-15,Headphones,Electronics,3,3592.25
+17,2025-08-11,Monitor,Electronics,2,27030.13
+18,2025-11-17,Jeans,Clothing,4,1662.03
+19,2025-10-04,Pen Pack,Stationery,5,199.74
+20,2025-06-07,Power Bank,Electronics,1,3182.82
+21,2025-09-30,Smartphone,Electronics,1,37189.97
+22,2025-04-19,Desk Lamp,Home,4,1878.74
+23,2025-09-22,Wallet,Accessories,1,680.99
+24,2025-10-29,Power Bank,Electronics,1,2740.39
+25,2025-06-19,Keyboard,Electronics,2,1479.74
+26,2025-10-20,Water Bottle,Home,2,826.7
+27,2025-12-04,Backpack,Accessories,2,1585.65
+28,2025-06-23,Headphones,Electronics,1,1789.09
+29,2025-05-23,Wallet,Accessories,1,1868.55
+30,2025-02-17,Power Bank,Electronics,1,2162.67
+31,2025-07-14,Laptop,Electronics,8,52956.09
+32,2025-03-21,USB Cable,Electronics,1,779.66
+33,2025-01-26,Water Bottle,Home,2,934.51
+34,2025-04-06,Keyboard,Electronics,2,2590.6
+35,2025-10-24,Coffee Maker,Home,1,2308.22
+36,2025-12-09,Jacket,Clothing,1,2703.59
+37,2025-02-07,Laptop,Electronics,2,74953.63
+38,2025-09-17,TShirt,Clothing,1,543.31
+39,2025-03-22,Wallet,Accessories,4,1495.02
+40,2025-12-06,Headphones,Electronics,6,1498.31
+41,2025-05-20,Jeans,Clothing,3,2018.94
+42,2025-05-09,Mouse,Electronics,1,808.29
+43,2025-03-08,TShirt,Clothing,1,608.28
+44,2025-12-20,Smartphone,Electronics,2,56233.54
+45,2025-01-22,Jeans,Clothing,2,2385.25
+46,2025-12-08,Headphones,Electronics,2,3711.39
+47,2025-04-01,Backpack,Accessories,1,2366.75
+48,2025-03-23,Headphones,Electronics,2,1001.37
+49,2025-06-29,Jeans,Clothing,4,2280.25
+50,2025-06-18,TShirt,Clothing,5,975.82
+51,2025-12-14,Desk Lamp,Home,1,554.2
+52,2025-01-20,Headphones,Electronics,2,2597.57
+53,2025-07-17,Water Bottle,Home,1,234.51
+54,2025-07-06,Backpack,Accessories,1,2193.17
+55,2025-09-17,Jeans,Clothing,3,1353.51
+56,2025-04-09,Backpack,Accessories,3,1508.95
+57,2025-06-05,Jeans,Clothing,1,2134.79
+58,2025-08-15,USB Cable,Electronics,2,665.93
+59,2025-02-17,Power Bank,Electronics,3,1484.07
+60,2025-05-06,Notebook,Stationery,3,147.59
+61,2025-12-23,Formal Shoes,Footwear,2,2823.73
+62,2025-04-23,Monitor,Electronics,4,21614.15
+63,2025-03-04,Wallet,Accessories,1,1088.89
+64,2025-10-08,Wallet,Accessories,5,1563.21
+65,2025-11-23,TShirt,Clothing,4,663.91
+66,2025-02-09,Jeans,Clothing,1,1369.94
+67,2025-04-29,Formal Shoes,Footwear,3,4765.96
+68,2025-10-05,Wallet,Accessories,2,650.62
+69,2025-10-22,Formal Shoes,Footwear,2,5758.51
+70,2025-09-07,Power Bank,Electronics,1,2162.67
+71,2025-08-28,Smartphone,Electronics,8,40308.55
+72,2025-03-11,Wallet,Accessories,1,741.27
+73,2025-06-22,Formal Shoes,Footwear,1,5794.06
+74,2025-01-10,Desk Lamp,Home,1,2402.84
+75,2025-05-07,USB Cable,Electronics,4,553.87
+76,2025-10-16,USB Cable,Electronics,2,316.56
+77,2025-03-25,Jeans,Clothing,1,842.65
+78,2025-02-08,Water Bottle,Home,3,700.79
+79,2025-10-17,Mouse,Electronics,1,814.05
+80,2025-01-07,Backpack,Accessories,4,852.29
+81,2025-04-01,Pen Pack,Stationery,8,117.52
+82,2025-10-31,TShirt,Clothing,1,470.85
+83,2025-08-26,Water Bottle,Home,3,502.19
+84,2025-09-07,USB Cable,Electronics,2,317.93
+85,2025-09-22,USB Cable,Electronics,1,618.05
+86,2025-08-18,Laptop,Electronics,1,51647.89
+87,2025-08-31,Desk Lamp,Home,2,1350.01
+88,2025-05-19,Jeans,Clothing,1,1004.12
+89,2025-04-09,USB Cable,Electronics,3,329.72
+90,2025-06-01,Power Bank,Electronics,2,1685.9
+91,2025-01-28,Desk Lamp,Home,1,2387.18
+92,2025-10-21,Jeans,Clothing,2,1547.8
+93,2025-02-28,Keyboard,Electronics,2,907.43
+94,2025-10-16,Jeans,Clothing,1,1220.92
+95,2025-09-25,Formal Shoes,Footwear,2,3658.43
+96,2025-11-09,Headphones,Electronics,6,1880.5
+97,2025-05-03,Monitor,Electronics,2,10287.18
+98,2025-05-30,Mouse,Electronics,1,1148.35
+99,2025-05-16,Water Bottle,Home,3,945.93
+100,2025-11-28,Smartphone,Electronics,5,55811.45
+101,2025-11-01,Water Bottle,Home,6,550.32
+102,2025-09-14,Desk Lamp,Home,2,659.88
+103,2025-01-14,Keyboard,Electronics,1,2588.04
+104,2025-03-31,Notebook,Stationery,2,101.91
+105,2025-11-22,Notebook,Stationery,8,105.8
+106,2025-03-24,Jacket,Clothing,2,3082.29
+107,2025-08-21,Keyboard,Electronics,1,1605.17
+108,2025-07-31,Mouse,Electronics,1,734.14
+109,2025-05-17,Desk Lamp,Home,1,1075.06
+110,2025-11-19,Coffee Maker,Home,4,6199.94
+111,2025-02-17,Power Bank,Electronics,10,3273.62
+112,2025-05-30,Pen Pack,Stationery,3,153.87
+113,2025-10-10,Smartphone,Electronics,2,60859.01
+114,2025-08-01,Jacket,Clothing,6,3128.9
+115,2025-03-18,Wallet,Accessories,2,885.71
+116,2025-04-07,Power Bank,Electronics,2,1507.26
+117,2025-12-28,Formal Shoes,Footwear,2,4586.49
+118,2025-03-06,Pen Pack,Stationery,8,133.0
+119,2025-01-08,Smartphone,Electronics,2,46703.41
+120,2025-06-23,Coffee Maker,Home,3,5828.34
+121,2025-10-05,Mouse,Electronics,3,581.72
+122,2025-08-11,Headphones,Electronics,4,4460.23
+123,2025-01-15,Mouse,Electronics,1,367.34
+124,2025-05-06,Pen Pack,Stationery,2,220.45
+125,2025-11-09,Formal Shoes,Footwear,3,2810.49
+126,2025-11-23,TShirt,Clothing,2,765.79
+127,2025-02-07,Wallet,Accessories,6,1978.01
+128,2025-06-04,USB Cable,Electronics,10,704.67
+129,2025-10-22,Jeans,Clothing,10,1300.89
+130,2025-10-17,Mouse,Electronics,5,1194.21
+131,2025-04-23,USB Cable,Electronics,3,590.55
+132,2025-06-08,Wallet,Accessories,1,919.26
+133,2025-08-01,Monitor,Electronics,1,23516.77
+134,2025-09-04,Jeans,Clothing,3,1374.82
+135,2025-04-26,Formal Shoes,Footwear,8,5178.27
+136,2025-05-16,Desk Lamp,Home,1,1236.17
+137,2025-11-23,Sneakers,Footwear,1,2785.02
+138,2025-11-28,Keyboard,Electronics,3,1999.95
+139,2025-03-13,Mouse,Electronics,6,665.24
+140,2025-10-03,Smartphone,Electronics,2,31663.61
+141,2025-08-01,Headphones,Electronics,4,4001.39
+142,2025-08-16,Wallet,Accessories,6,1753.27
+143,2025-02-01,Formal Shoes,Footwear,1,5865.47
+144,2025-01-26,Jacket,Clothing,1,1678.38
+145,2025-10-28,USB Cable,Electronics,4,301.45
+146,2025-03-08,Desk Lamp,Home,1,847.99
+147,2025-07-03,Power Bank,Electronics,2,941.03
+148,2025-09-27,Headphones,Electronics,3,3276.48
+149,2025-11-11,Mouse,Electronics,3,1390.5
+150,2025-02-01,Notebook,Stationery,4,99.68
+151,2025-02-11,Jacket,Clothing,3,1449.53
+152,2025-08-21,Pen Pack,Stationery,3,74.79
+153,2025-08-09,Wallet,Accessories,5,1002.48
+154,2025-06-10,Backpack,Accessories,1,1210.74
+155,2025-02-13,Keyboard,Electronics,2,2784.85
+156,2025-10-28,Desk Lamp,Home,2,1839.03
+157,2025-05-28,Coffee Maker,Home,1,2442.22
+158,2025-04-25,Headphones,Electronics,2,3692.58
+159,2025-08-08,Desk Lamp,Home,8,2135.85
+160,2025-01-15,Monitor,Electronics,1,23010.6
+161,2025-03-15,Water Bottle,Home,3,254.67
+162,2025-07-12,Backpack,Accessories,2,976.78
+163,2025-01-27,Smartphone,Electronics,1,44745.42
+164,2025-12-05,Backpack,Accessories,2,1659.91
+165,2025-06-26,Backpack,Accessories,1,2226.72
+166,2025-01-24,Power Bank,Electronics,2,2458.24
+167,2025-03-12,TShirt,Clothing,1,382.99
+168,2025-07-14,Desk Lamp,Home,3,1499.52
+169,2025-01-22,Backpack,Accessories,1,2809.79
+170,2025-12-30,Backpack,Accessories,1,1571.08
+171,2025-12-20,Sneakers,Footwear,1,6143.66
+172,2025-09-26,Keyboard,Electronics,2,1568.77
+173,2025-02-09,Pen Pack,Stationery,3,182.65
+174,2025-05-01,Headphones,Electronics,1,1825.81
+175,2025-11-18,Notebook,Stationery,2,118.92
+176,2025-11-18,Jacket,Clothing,1,1459.42
+177,2025-06-30,Pen Pack,Stationery,1,165.44
+178,2025-02-09,Keyboard,Electronics,3,2119.79
+179,2025-06-14,Coffee Maker,Home,2,2735.19
+180,2025-02-13,Pen Pack,Stationery,3,59.79
+181,2025-07-06,Sneakers,Footwear,5,3629.79
+182,2025-06-18,Headphones,Electronics,2,2810.13
+183,2025-10-26,Smartphone,Electronics,5,28442.28
+184,2025-06-08,Desk Lamp,Home,2,2082.32
+185,2025-01-10,Sneakers,Footwear,1,6730.43
+186,2025-03-12,Smartphone,Electronics,1,56754.7
+187,2025-11-02,Formal Shoes,Footwear,1,2558.55
+188,2025-07-30,Sneakers,Footwear,3,2805.42
+189,2025-10-01,Power Bank,Electronics,1,3002.42
+190,2025-08-25,Jeans,Clothing,4,1653.94
+191,2025-05-09,Mouse,Electronics,3,1348.94
+192,2025-05-26,Keyboard,Electronics,4,1463.82
+193,2025-04-24,Wallet,Accessories,5,1880.8
+194,2025-05-01,Formal Shoes,Footwear,10,3373.63
+195,2025-03-16,Smartphone,Electronics,1,60622.0
+196,2025-11-12,Laptop,Electronics,5,45570.12
+197,2025-02-26,Jeans,Clothing,1,1006.14
+198,2025-02-02,Headphones,Electronics,4,3399.11
+199,2025-03-15,Jeans,Clothing,2,1844.18
+200,2025-09-26,Sneakers,Footwear,1,4392.33
+201,2025-01-23,Formal Shoes,Footwear,8,2864.33
+202,2025-05-04,Headphones,Electronics,4,4622.97
+203,2025-10-07,Jacket,Clothing,4,1865.16
+204,2025-03-11,Keyboard,Electronics,3,3342.09
+205,2025-04-13,Mouse,Electronics,1,672.09
+206,2025-11-28,USB Cable,Electronics,1,710.39
+207,2025-07-08,Backpack,Accessories,5,2382.94
+208,2025-12-21,Notebook,Stationery,2,151.62
+209,2025-08-09,Coffee Maker,Home,10,2918.65
+210,2025-06-17,Jeans,Clothing,1,1823.46
+211,2025-08-17,Mouse,Electronics,3,1393.93
+212,2025-02-08,Formal Shoes,Footwear,2,5163.6
+213,2025-11-08,Wallet,Accessories,1,413.3
+214,2025-10-18,Mouse,Electronics,3,1114.87
+215,2025-10-21,Smartphone,Electronics,2,33095.8
+216,2025-01-14,Monitor,Electronics,2,15126.73
+217,2025-12-27,Wallet,Accessories,1,1339.19
+218,2025-03-11,Keyboard,Electronics,2,3216.3
+219,2025-12-30,Keyboard,Electronics,2,1513.01
+220,2025-09-18,Power Bank,Electronics,1,1422.55
+221,2025-07-04,Desk Lamp,Home,2,1433.81
+222,2025-02-03,Jeans,Clothing,2,2017.79
+223,2025-03-06,Jacket,Clothing,3,2909.45
+224,2025-03-08,Backpack,Accessories,2,2682.71
+225,2025-03-24,Jacket,Clothing,6,2056.56
+226,2025-04-11,Desk Lamp,Home,1,1749.04
+227,2025-10-31,Water Bottle,Home,1,725.99
+228,2025-01-15,Keyboard,Electronics,1,2496.07
+229,2025-11-13,Laptop,Electronics,2,63814.92
+230,2025-12-17,Formal Shoes,Footwear,1,2105.49
+231,2025-09-05,Wallet,Accessories,1,1330.32
+232,2025-03-08,Sneakers,Footwear,2,2083.01
+233,2025-08-19,Power Bank,Electronics,1,1031.57
+234,2025-06-17,Water Bottle,Home,3,350.87
+235,2025-09-13,Jeans,Clothing,2,952.08
+236,2025-10-26,Sneakers,Footwear,1,3046.46
+237,2025-02-25,Backpack,Accessories,1,1233.73
+238,2025-07-25,Mouse,Electronics,2,533.59
+239,2025-09-16,Wallet,Accessories,4,774.53
+240,2025-07-21,Sneakers,Footwear,4,3363.97
+241,2025-09-14,Mouse,Electronics,1,464.44
+242,2025-03-18,Coffee Maker,Home,5,2666.5
+243,2025-11-12,Jeans,Clothing,2,1661.44
+244,2025-09-01,Laptop,Electronics,2,65214.19
+245,2025-05-16,Water Bottle,Home,2,776.12
+246,2025-03-17,Power Bank,Electronics,1,3365.33
+247,2025-06-10,Backpack,Accessories,1,2256.2
+248,2025-09-23,USB Cable,Electronics,2,798.78
+249,2025-08-24,Desk Lamp,Home,1,1207.57
+250,2025-04-09,Power Bank,Electronics,1,1676.1
+251,2025-06-12,Notebook,Stationery,1,170.72
+252,2025-07-22,Sneakers,Footwear,6,5924.39
+253,2025-06-27,Wallet,Accessories,3,1569.48
+254,2025-10-15,TShirt,Clothing,1,729.97
+255,2025-12-09,Pen Pack,Stationery,1,108.21
+256,2025-02-21,Smartphone,Electronics,1,41168.69
+257,2025-11-30,USB Cable,Electronics,4,336.71
+258,2025-10-01,Mouse,Electronics,5,510.08
+259,2025-04-06,Jeans,Clothing,5,814.75
+260,2025-08-21,Desk Lamp,Home,2,2277.52
+261,2025-02-27,Jacket,Clothing,1,2943.42
+262,2025-06-01,Water Bottle,Home,3,353.53
+263,2025-02-14,Formal Shoes,Footwear,3,2575.08
+264,2025-01-04,TShirt,Clothing,2,611.71
+265,2025-05-14,Sneakers,Footwear,3,1840.68
+266,2025-07-27,Pen Pack,Stationery,6,271.95
+267,2025-11-11,Power Bank,Electronics,1,1247.28
+268,2025-08-01,Desk Lamp,Home,5,2013.7
+269,2025-09-27,Wallet,Accessories,2,914.03
+270,2025-10-21,Desk Lamp,Home,1,1155.24
+271,2025-10-26,Notebook,Stationery,1,111.45
+272,2025-08-22,Water Bottle,Home,1,568.9
+273,2025-01-02,USB Cable,Electronics,2,179.44
+274,2025-02-05,Notebook,Stationery,1,97.24
+275,2025-08-18,Formal Shoes,Footwear,2,4666.47
+276,2025-04-02,Desk Lamp,Home,2,753.69
+277,2025-08-26,Desk Lamp,Home,2,1257.55
+278,2025-03-21,TShirt,Clothing,1,911.65
+279,2025-05-04,USB Cable,Electronics,1,536.06
+280,2025-07-25,Wallet,Accessories,1,668.36
+281,2025-04-30,Water Bottle,Home,1,677.33
+282,2025-03-15,Pen Pack,Stationery,1,125.13
+283,2025-01-25,Sneakers,Footwear,6,5191.38
+284,2025-03-18,Jeans,Clothing,2,2081.51
+285,2025-12-29,Smartphone,Electronics,4,60481.28
+286,2025-07-18,Power Bank,Electronics,1,1758.68
+287,2025-10-02,USB Cable,Electronics,1,395.16
+288,2025-10-28,Desk Lamp,Home,1,916.78
+289,2025-04-08,Headphones,Electronics,3,4722.52
+290,2025-10-10,Jacket,Clothing,4,2646.13
+291,2025-07-04,Pen Pack,Stationery,5,166.5
+292,2025-06-10,Backpack,Accessories,1,2672.8
+293,2025-06-01,Smartphone,Electronics,1,24190.99
+294,2025-05-12,Notebook,Stationery,8,129.84
+295,2025-03-28,Smartphone,Electronics,3,37880.77
+296,2025-02-08,Mouse,Electronics,4,794.87
+297,2025-01-05,USB Cable,Electronics,2,392.58
+298,2025-01-04,Desk Lamp,Home,2,522.7
+299,2025-01-09,Pen Pack,Stationery,4,218.51
+300,2025-05-04,USB Cable,Electronics,3,314.07
+301,2025-07-11,Formal Shoes,Footwear,2,2820.47
+302,2025-12-01,Mouse,Electronics,1,755.12
+303,2025-12-26,Monitor,Electronics,1,24751.93
+304,2025-09-28,Mouse,Electronics,1,1381.53
+305,2025-02-08,TShirt,Clothing,5,693.46
+306,2025-04-17,Water Bottle,Home,1,855.55
+307,2025-10-16,Power Bank,Electronics,2,3108.55
+308,2025-12-19,Keyboard,Electronics,2,3428.11
+309,2025-02-08,Jacket,Clothing,3,3532.07
+310,2025-11-21,TShirt,Clothing,4,614.39
+311,2025-08-10,Monitor,Electronics,3,20874.11
+312,2025-02-12,TShirt,Clothing,1,797.17
+313,2025-07-04,Headphones,Electronics,1,5703.39
+314,2025-03-09,Keyboard,Electronics,1,1956.76
+315,2025-02-15,Sneakers,Footwear,2,4782.09
+316,2025-07-31,Formal Shoes,Footwear,4,4843.34
+317,2025-12-17,Formal Shoes,Footwear,1,2928.46
+318,2025-03-27,Backpack,Accessories,1,1318.41
+319,2025-11-17,Notebook,Stationery,2,67.38
+320,2025-07-22,Jacket,Clothing,4,2643.2
+321,2025-11-30,Coffee Maker,Home,1,3787.8
+322,2025-04-01,Formal Shoes,Footwear,8,3023.08
+323,2025-06-16,Formal Shoes,Footwear,1,5099.64
+324,2025-10-31,Desk Lamp,Home,1,2034.24
+325,2025-05-30,Keyboard,Electronics,4,2927.84
+326,2025-05-04,TShirt,Clothing,3,799.67
+327,2025-10-26,Formal Shoes,Footwear,2,5677.68
+328,2025-07-04,Desk Lamp,Home,2,2327.8
+329,2025-11-28,Coffee Maker,Home,1,7897.39
+330,2025-02-24,Laptop,Electronics,1,51660.03
+331,2025-07-20,Wallet,Accessories,4,1299.6
+332,2025-09-05,Headphones,Electronics,1,5586.85
+333,2025-06-09,Jacket,Clothing,2,1985.89
+334,2025-08-13,Wallet,Accessories,1,809.45
+335,2025-12-13,Monitor,Electronics,6,22550.28
+336,2025-06-19,Desk Lamp,Home,2,1423.11
+337,2025-07-22,Laptop,Electronics,3,71492.92
+338,2025-12-27,USB Cable,Electronics,1,639.01
+339,2025-07-07,Jacket,Clothing,1,1632.91
+340,2025-11-02,Formal Shoes,Footwear,3,4264.42
+341,2025-12-11,Jeans,Clothing,5,1802.29
+342,2025-05-03,Jeans,Clothing,1,1433.62
+343,2025-10-22,Formal Shoes,Footwear,2,3843.01
+344,2025-09-08,Jeans,Clothing,1,1333.79
+345,2025-09-06,Smartphone,Electronics,1,32349.04
+346,2025-08-01,Wallet,Accessories,2,439.54
+347,2025-05-21,Power Bank,Electronics,2,1337.34
+348,2025-10-21,Headphones,Electronics,1,3624.15
+349,2025-08-06,Headphones,Electronics,3,4199.09
+350,2025-05-15,Sneakers,Footwear,5,1977.41
+351,2025-12-30,Coffee Maker,Home,3,2828.92
+352,2025-10-19,Sneakers,Footwear,2,4781.72
+353,2025-10-21,TShirt,Clothing,6,659.09
+354,2025-01-31,TShirt,Clothing,5,387.82
+355,2025-05-07,Formal Shoes,Footwear,2,4224.19
+356,2025-02-08,Keyboard,Electronics,2,2799.45
+357,2025-06-17,Water Bottle,Home,1,818.31
+358,2025-10-01,Formal Shoes,Footwear,1,3603.5
+359,2025-05-26,Jacket,Clothing,2,1696.13
+360,2025-02-20,Wallet,Accessories,1,1879.04
+361,2025-08-08,USB Cable,Electronics,10,741.11
+362,2025-02-17,Sneakers,Footwear,1,3544.14
+363,2025-11-17,Jeans,Clothing,3,2082.89
+364,2025-04-20,Notebook,Stationery,1,123.12
+365,2025-12-23,Jacket,Clothing,4,4954.0
+366,2025-04-28,Formal Shoes,Footwear,1,5184.02
+367,2025-03-12,Formal Shoes,Footwear,4,4962.26
+368,2025-11-09,Monitor,Electronics,2,22171.07
+369,2025-04-22,Keyboard,Electronics,5,1092.04
+370,2025-06-11,Smartphone,Electronics,1,46164.89
+371,2025-04-16,Pen Pack,Stationery,3,97.16
+372,2025-09-11,Formal Shoes,Footwear,1,3897.25
+373,2025-07-04,Jacket,Clothing,1,4470.23
+374,2025-08-30,Keyboard,Electronics,1,889.09
+375,2025-07-23,Pen Pack,Stationery,1,228.16
+376,2025-11-24,Desk Lamp,Home,2,804.36
+377,2025-03-21,Desk Lamp,Home,1,1671.87
+378,2025-05-03,Mouse,Electronics,1,1409.55
+379,2025-06-08,Monitor,Electronics,1,21865.91
+380,2025-06-27,Pen Pack,Stationery,2,255.63
+381,2025-05-18,Headphones,Electronics,4,952.65
+382,2025-05-15,Water Bottle,Home,3,595.92
+383,2025-10-18,Monitor,Electronics,2,12357.44
+384,2025-01-23,Laptop,Electronics,1,59152.94
+385,2025-10-11,Backpack,Accessories,1,1194.83
+386,2025-03-03,Pen Pack,Stationery,3,63.17
+387,2025-08-27,Jeans,Clothing,4,1327.19
+388,2025-04-13,Jeans,Clothing,2,1315.65
+389,2025-10-30,Notebook,Stationery,10,148.62
+390,2025-07-29,Laptop,Electronics,1,55392.71
+391,2025-12-03,Formal Shoes,Footwear,4,4853.3
+392,2025-08-03,Notebook,Stationery,8,176.16
+393,2025-04-29,Pen Pack,Stationery,2,273.89
+394,2025-09-16,Smartphone,Electronics,3,32900.62
+395,2025-05-02,Jeans,Clothing,1,1334.52
+396,2025-05-20,Power Bank,Electronics,1,1427.05
+397,2025-03-26,Wallet,Accessories,2,990.07
+398,2025-06-07,Wallet,Accessories,1,502.85
+399,2025-04-21,Jacket,Clothing,1,3901.69
+400,2025-12-13,Jeans,Clothing,1,2483.15
+401,2025-02-18,Wallet,Accessories,1,1648.48
+402,2025-03-08,USB Cable,Electronics,4,391.96
+403,2025-02-08,Laptop,Electronics,10,50932.51
+404,2025-06-19,Headphones,Electronics,1,3197.17
+405,2025-01-16,Formal Shoes,Footwear,3,2524.79
+406,2025-08-17,Smartphone,Electronics,1,44816.36
+407,2025-10-09,Notebook,Stationery,1,79.17
+408,2025-11-19,Desk Lamp,Home,4,2477.81
+409,2025-06-26,Water Bottle,Home,2,509.71
+410,2025-01-16,TShirt,Clothing,1,993.07
+411,2025-03-23,Headphones,Electronics,1,2053.99
+412,2025-07-01,Monitor,Electronics,1,19442.91
+413,2025-12-27,Sneakers,Footwear,6,4598.84
+414,2025-03-31,Notebook,Stationery,1,47.86
+415,2025-01-01,Jacket,Clothing,5,1965.36
+416,2025-01-31,Laptop,Electronics,1,66140.89
+417,2025-02-07,Sneakers,Footwear,3,5140.77
+418,2025-06-15,Smartphone,Electronics,8,50814.66
+419,2025-12-29,Desk Lamp,Home,3,2356.69
+420,2025-07-13,Jeans,Clothing,3,1299.68
+421,2025-10-18,Mouse,Electronics,1,681.86
+422,2025-09-12,Smartphone,Electronics,1,16123.75
+423,2025-12-29,Jacket,Clothing,2,2207.54
+424,2025-02-25,Laptop,Electronics,1,58146.6
+425,2025-07-13,Sneakers,Footwear,2,2056.86
+426,2025-02-07,Mouse,Electronics,1,682.46
+427,2025-07-12,Monitor,Electronics,3,18487.97
+428,2025-12-27,Laptop,Electronics,2,64609.06
+429,2025-02-21,Jacket,Clothing,1,1921.75
+430,2025-05-02,Headphones,Electronics,1,3773.2
+431,2025-01-02,Backpack,Accessories,1,2576.35
+432,2025-01-14,USB Cable,Electronics,1,339.68
+433,2025-07-23,Notebook,Stationery,2,132.55
+434,2025-07-15,Sneakers,Footwear,1,1744.39
+435,2025-05-18,Water Bottle,Home,1,800.79
+436,2025-10-05,Backpack,Accessories,8,2014.34
+437,2025-10-02,Notebook,Stationery,2,72.99
+438,2025-09-15,Water Bottle,Home,5,839.36
+439,2025-03-30,Monitor,Electronics,8,23977.68
+440,2025-12-16,Backpack,Accessories,1,2573.15
+441,2025-02-14,Formal Shoes,Footwear,2,4117.63
+442,2025-02-27,Backpack,Accessories,1,1958.83
+443,2025-05-27,Desk Lamp,Home,5,2254.79
+444,2025-01-20,Monitor,Electronics,1,10020.91
+445,2025-06-19,Power Bank,Electronics,1,2135.57
+446,2025-06-05,Jeans,Clothing,1,1634.75
+447,2025-06-03,Wallet,Accessories,4,844.48
+448,2025-04-19,Backpack,Accessories,3,2421.78
+449,2025-02-03,Jeans,Clothing,3,1484.75
+450,2025-04-13,Mouse,Electronics,1,847.74
+451,2025-08-26,Pen Pack,Stationery,2,280.77
+452,2025-09-08,Coffee Maker,Home,2,7754.27
+453,2025-05-13,Keyboard,Electronics,1,1782.38
+454,2025-12-13,USB Cable,Electronics,1,416.18
+455,2025-11-28,Monitor,Electronics,3,7177.74
+456,2025-07-12,Sneakers,Footwear,2,2699.15
+457,2025-01-04,Pen Pack,Stationery,10,291.62
+458,2025-09-04,Keyboard,Electronics,1,1474.15
+459,2025-04-07,Smartphone,Electronics,2,24736.01
+460,2025-01-14,Notebook,Stationery,10,76.32
+461,2025-10-26,Water Bottle,Home,4,473.53
+462,2025-03-29,Desk Lamp,Home,1,694.21
+463,2025-12-15,Jacket,Clothing,3,2044.34
+464,2025-07-10,TShirt,Clothing,2,623.63
+465,2025-08-30,USB Cable,Electronics,2,713.87
+466,2025-03-19,Smartphone,Electronics,10,30161.5
+467,2025-04-03,Keyboard,Electronics,2,2466.89
+468,2025-08-20,TShirt,Clothing,1,840.48
+469,2025-03-08,Coffee Maker,Home,2,4461.91
+470,2025-01-20,Desk Lamp,Home,1,1245.2
+471,2025-01-10,Laptop,Electronics,3,52464.69
+472,2025-02-22,Formal Shoes,Footwear,2,3084.68
+473,2025-08-22,Pen Pack,Stationery,2,134.46
+474,2025-07-03,USB Cable,Electronics,1,739.48
+475,2025-03-09,USB Cable,Electronics,3,533.3
+476,2025-07-12,TShirt,Clothing,4,735.19
+477,2025-01-25,Headphones,Electronics,2,2777.32
+478,2025-04-16,Laptop,Electronics,1,64849.94
+479,2025-08-03,Headphones,Electronics,2,4012.03
+480,2025-04-12,Coffee Maker,Home,1,3430.3
+481,2025-06-01,Monitor,Electronics,1,17423.45
+482,2025-01-02,Laptop,Electronics,3,72206.4
+483,2025-09-19,Keyboard,Electronics,3,983.61
+484,2025-05-16,Wallet,Accessories,1,1681.4
+485,2025-08-07,Headphones,Electronics,1,4742.66
+486,2025-06-18,Sneakers,Footwear,5,6751.99
+487,2025-04-04,Headphones,Electronics,2,5804.01
+488,2025-11-29,Monitor,Electronics,1,21619.57
+489,2025-10-30,Notebook,Stationery,4,134.98
+490,2025-12-17,Smartphone,Electronics,2,37870.51
+491,2025-05-14,Jacket,Clothing,1,4498.79
+492,2025-08-10,Power Bank,Electronics,2,2625.65
+493,2025-01-06,Monitor,Electronics,2,16855.07
+494,2025-06-14,Power Bank,Electronics,1,1623.21
+495,2025-07-26,Power Bank,Electronics,1,2054.89
+496,2025-08-17,Jacket,Clothing,1,3089.52
+497,2025-07-31,Mouse,Electronics,2,300.2
+498,2025-12-02,Wallet,Accessories,6,916.68
+499,2025-10-14,Coffee Maker,Home,2,6242.56
+500,2025-12-04,Power Bank,Electronics,1,1823.36
+501,2025-12-26,Headphones,Electronics,1,1653.61
+502,2025-11-09,USB Cable,Electronics,1,754.64
+503,2025-06-23,Headphones,Electronics,4,1041.8
+504,2025-12-04,Water Bottle,Home,6,306.71
+505,2025-10-11,Backpack,Accessories,4,1758.04
+506,2025-03-07,Headphones,Electronics,2,3922.84
+507,2025-05-21,Formal Shoes,Footwear,8,5875.06
+508,2025-11-05,Pen Pack,Stationery,1,225.37
+509,2025-11-16,Jeans,Clothing,3,2365.03
+510,2025-12-30,Headphones,Electronics,4,3723.86
+511,2025-08-05,Laptop,Electronics,2,45758.16
+512,2025-05-17,Monitor,Electronics,8,21351.2
+513,2025-10-05,Mouse,Electronics,2,843.11
+514,2025-05-02,Pen Pack,Stationery,4,249.71
+515,2025-08-02,Jacket,Clothing,8,1404.39
+516,2025-04-26,Sneakers,Footwear,4,4505.38
+517,2025-08-18,Monitor,Electronics,8,8563.85
+518,2025-08-08,TShirt,Clothing,2,390.05
+519,2025-08-27,Smartphone,Electronics,1,61217.3
+520,2025-09-09,Water Bottle,Home,2,257.3
+521,2025-09-16,Monitor,Electronics,2,18277.76
+522,2025-12-06,Jacket,Clothing,1,2315.29
+523,2025-02-28,Sneakers,Footwear,2,6473.73
+524,2025-07-15,Headphones,Electronics,2,3609.23
+525,2025-09-21,Pen Pack,Stationery,2,60.96
+526,2025-02-19,Monitor,Electronics,8,23239.69
+527,2025-12-10,USB Cable,Electronics,5,425.74
+528,2025-11-28,Keyboard,Electronics,3,1130.51
+529,2025-02-07,Mouse,Electronics,1,602.29
+530,2025-07-18,Wallet,Accessories,3,1035.14
+531,2025-11-25,Coffee Maker,Home,1,6424.15
+532,2025-05-29,Jeans,Clothing,3,1277.58
+533,2025-08-31,Monitor,Electronics,2,9864.01
+534,2025-12-13,Sneakers,Footwear,6,1560.33
+535,2025-01-03,Water Bottle,Home,2,628.72
+536,2025-04-19,Backpack,Accessories,5,2642.5
+537,2025-11-12,TShirt,Clothing,1,425.95
+538,2025-11-27,Desk Lamp,Home,1,1842.37
+539,2025-06-19,Sneakers,Footwear,1,5104.1
+540,2025-04-10,Jacket,Clothing,2,2447.39
+541,2025-10-17,Water Bottle,Home,2,452.07
+542,2025-05-07,Power Bank,Electronics,3,2566.18
+543,2025-09-03,Wallet,Accessories,2,1616.1
+544,2025-05-24,Smartphone,Electronics,5,22410.89
+545,2025-09-17,Laptop,Electronics,4,62367.02
+546,2025-10-06,Desk Lamp,Home,2,2049.39
+547,2025-03-10,Wallet,Accessories,2,452.94
+548,2025-09-21,Smartphone,Electronics,2,21494.69
+549,2025-01-21,Power Bank,Electronics,4,1502.55
+550,2025-12-09,USB Cable,Electronics,2,664.45
+551,2025-01-21,Jacket,Clothing,1,4879.11
+552,2025-07-12,Formal Shoes,Footwear,2,4543.01
+553,2025-09-22,Formal Shoes,Footwear,2,5443.42
+554,2025-09-14,Smartphone,Electronics,2,24189.51
+555,2025-04-06,Monitor,Electronics,2,22063.36
+556,2025-02-28,Notebook,Stationery,3,107.06
+557,2025-05-05,Mouse,Electronics,1,1010.82
+558,2025-01-29,Monitor,Electronics,1,10780.79
+559,2025-04-21,Wallet,Accessories,3,1100.4
+560,2025-11-04,Smartphone,Electronics,4,55484.02
+561,2025-08-21,Coffee Maker,Home,2,3224.62
+562,2025-04-14,Pen Pack,Stationery,5,176.09
+563,2025-04-01,Notebook,Stationery,5,123.97
+564,2025-12-04,Smartphone,Electronics,5,40582.16
+565,2025-07-09,Mouse,Electronics,3,814.75
+566,2025-08-06,Smartphone,Electronics,1,52590.52
+567,2025-05-12,USB Cable,Electronics,1,633.37
+568,2025-07-12,USB Cable,Electronics,3,355.34
+569,2025-11-30,Water Bottle,Home,1,882.98
+570,2025-12-15,Formal Shoes,Footwear,4,3534.56
+571,2025-10-14,Desk Lamp,Home,2,2476.02
+572,2025-12-04,Headphones,Electronics,3,3122.29
+573,2025-09-18,Formal Shoes,Footwear,4,5162.59
+574,2025-11-22,Laptop,Electronics,4,69697.66
+575,2025-05-15,Power Bank,Electronics,2,2483.48
+576,2025-12-31,Coffee Maker,Home,1,6595.6
+577,2025-04-14,Pen Pack,Stationery,1,58.4
+578,2025-12-12,Mouse,Electronics,2,1086.02
+579,2025-06-30,Formal Shoes,Footwear,2,2640.3
+580,2025-10-14,Water Bottle,Home,1,969.63
+581,2025-08-21,Formal Shoes,Footwear,2,2895.65
+582,2025-09-15,Jeans,Clothing,1,997.92
+583,2025-12-22,Wallet,Accessories,8,1256.39
+584,2025-10-28,Laptop,Electronics,2,52734.59
+585,2025-07-31,Sneakers,Footwear,2,1552.48
+586,2025-07-24,Jacket,Clothing,1,4738.37
+587,2025-10-21,TShirt,Clothing,1,821.31
+588,2025-05-04,TShirt,Clothing,1,440.94
+589,2025-03-03,Keyboard,Electronics,3,2557.59
+590,2025-09-04,Sneakers,Footwear,3,4206.87
+591,2025-09-19,TShirt,Clothing,2,824.12
+592,2025-09-02,Desk Lamp,Home,1,1193.58
+593,2025-12-24,Pen Pack,Stationery,2,222.3
+594,2025-06-16,Sneakers,Footwear,3,2927.35
+595,2025-08-30,Coffee Maker,Home,1,2940.08
+596,2025-07-06,Formal Shoes,Footwear,1,2554.53
+597,2025-05-01,Desk Lamp,Home,2,1260.77
+598,2025-04-01,Backpack,Accessories,2,2988.35
+599,2025-05-09,Desk Lamp,Home,5,594.42
+600,2025-05-11,Notebook,Stationery,4,53.48
+601,2025-10-14,Desk Lamp,Home,6,1014.43
+602,2025-12-14,Coffee Maker,Home,1,5369.97
+603,2025-06-16,Pen Pack,Stationery,2,234.13
+604,2025-08-26,Smartphone,Electronics,5,45950.77
+605,2025-02-06,Keyboard,Electronics,1,1339.01
+606,2025-05-19,Wallet,Accessories,4,1894.91
+607,2025-04-05,Laptop,Electronics,1,52038.82
+608,2025-07-23,Headphones,Electronics,1,5671.33
+609,2025-09-26,Keyboard,Electronics,1,2430.69
+610,2025-05-07,Jeans,Clothing,2,1013.9
+611,2025-12-06,Sneakers,Footwear,5,3287.61
+612,2025-10-08,Wallet,Accessories,1,1911.43
+613,2025-11-20,Water Bottle,Home,2,710.83
+614,2025-10-04,Power Bank,Electronics,4,2048.84
+615,2025-06-05,Laptop,Electronics,1,69461.39
+616,2025-10-01,Laptop,Electronics,3,59757.95
+617,2025-05-30,Coffee Maker,Home,1,1844.74
+618,2025-07-22,Power Bank,Electronics,1,2816.51
+619,2025-02-10,Backpack,Accessories,3,1838.86
+620,2025-07-31,USB Cable,Electronics,5,268.56
+621,2025-05-20,Coffee Maker,Home,2,3787.67
+622,2025-04-06,Headphones,Electronics,1,1450.2
+623,2025-03-19,Laptop,Electronics,2,55257.39
+624,2025-12-23,Mouse,Electronics,1,1312.26
+625,2025-02-06,Desk Lamp,Home,2,883.38
+626,2025-05-08,Formal Shoes,Footwear,4,3659.44
+627,2025-09-24,USB Cable,Electronics,2,592.94
+628,2025-10-09,Pen Pack,Stationery,1,170.31
+629,2025-12-08,USB Cable,Electronics,8,303.38
+630,2025-05-22,Water Bottle,Home,1,830.32
+631,2025-12-19,Coffee Maker,Home,1,6578.17
+632,2025-12-18,Coffee Maker,Home,1,7810.87
+633,2025-11-27,Smartphone,Electronics,3,53947.71
+634,2025-10-13,Sneakers,Footwear,4,3911.95
+635,2025-03-10,TShirt,Clothing,5,638.71
+636,2025-04-08,Water Bottle,Home,1,477.13
+637,2025-02-05,Pen Pack,Stationery,1,123.92
+638,2025-11-23,Pen Pack,Stationery,2,96.38
+639,2025-06-14,Keyboard,Electronics,3,2209.08
+640,2025-10-10,Smartphone,Electronics,3,29097.8
+641,2025-09-25,Keyboard,Electronics,1,3325.84
+642,2025-09-06,USB Cable,Electronics,1,521.16
+643,2025-01-26,Sneakers,Footwear,1,5447.15
+644,2025-08-28,Mouse,Electronics,2,1192.17
+645,2025-09-28,Mouse,Electronics,3,1301.35
+646,2025-02-21,Power Bank,Electronics,2,1392.6
+647,2025-10-13,Desk Lamp,Home,2,710.03
+648,2025-02-23,Monitor,Electronics,4,18549.27
+649,2025-06-30,Jacket,Clothing,2,4987.03
+650,2025-11-08,Power Bank,Electronics,2,1456.21
+651,2025-08-18,Formal Shoes,Footwear,1,1944.58
+652,2025-06-04,Laptop,Electronics,1,51656.6
+653,2025-02-18,Mouse,Electronics,2,487.33
+654,2025-04-30,TShirt,Clothing,4,363.33
+655,2025-09-05,Monitor,Electronics,2,25879.51
+656,2025-01-20,Water Bottle,Home,2,823.1
+657,2025-03-03,Power Bank,Electronics,3,3108.64
+658,2025-09-26,Mouse,Electronics,1,977.9
+659,2025-12-11,Formal Shoes,Footwear,8,4960.93
+660,2025-05-29,Formal Shoes,Footwear,1,3210.91
+661,2025-05-15,Keyboard,Electronics,2,1916.58
+662,2025-10-14,USB Cable,Electronics,2,573.96
+663,2025-05-17,Backpack,Accessories,1,2816.93
+664,2025-07-07,Sneakers,Footwear,1,3393.89
+665,2025-06-29,Coffee Maker,Home,4,6776.53
+666,2025-04-30,USB Cable,Electronics,3,251.39
+667,2025-11-14,Smartphone,Electronics,5,55467.1
+668,2025-08-19,Notebook,Stationery,1,69.26
+669,2025-10-08,Notebook,Stationery,3,178.92
+670,2025-05-11,Monitor,Electronics,1,11214.62
+671,2025-12-02,Laptop,Electronics,1,64811.18
+672,2025-05-30,Formal Shoes,Footwear,1,3397.95
+673,2025-04-06,USB Cable,Electronics,2,447.69
+674,2025-06-20,Notebook,Stationery,2,61.98
+675,2025-05-01,Pen Pack,Stationery,1,65.5
+676,2025-04-26,Smartphone,Electronics,1,32820.87
+677,2025-08-02,Power Bank,Electronics,2,2008.81
+678,2025-04-16,Smartphone,Electronics,2,48254.58
+679,2025-08-09,Smartphone,Electronics,3,41936.75
+680,2025-04-05,Jacket,Clothing,4,1752.84
+681,2025-06-05,Wallet,Accessories,3,1695.89
+682,2025-02-24,Smartphone,Electronics,1,52409.72
+683,2025-11-02,Power Bank,Electronics,1,967.82
+684,2025-12-31,Sneakers,Footwear,1,3630.03
+685,2025-04-26,Mouse,Electronics,2,1462.58
+686,2025-04-15,Keyboard,Electronics,1,3373.16
+687,2025-05-07,Backpack,Accessories,2,699.38
+688,2025-09-24,Headphones,Electronics,2,5100.45
+689,2025-01-21,Desk Lamp,Home,2,2029.32
+690,2025-07-23,Jeans,Clothing,4,1285.05
+691,2025-12-20,Pen Pack,Stationery,5,165.89
+692,2025-04-03,Water Bottle,Home,6,755.89
+693,2025-08-19,Laptop,Electronics,1,62709.46
+694,2025-06-15,Monitor,Electronics,3,9594.43
+695,2025-09-26,Formal Shoes,Footwear,3,5894.8
+696,2025-01-23,Monitor,Electronics,5,18875.32
+697,2025-04-02,Mouse,Electronics,2,671.42
+698,2025-03-09,USB Cable,Electronics,1,647.51
+699,2025-10-06,Laptop,Electronics,3,59804.0
+700,2025-08-15,Keyboard,Electronics,3,718.4
+701,2025-01-26,Monitor,Electronics,1,20718.81
+702,2025-06-19,Keyboard,Electronics,1,1867.48
+703,2025-08-22,Water Bottle,Home,2,227.67
+704,2025-02-04,Backpack,Accessories,4,754.82
+705,2025-06-18,Pen Pack,Stationery,2,102.46
+706,2025-09-05,Coffee Maker,Home,6,7913.94
+707,2025-05-13,Pen Pack,Stationery,2,205.81
+708,2025-09-10,Monitor,Electronics,5,11887.15
+709,2025-01-13,Wallet,Accessories,3,499.47
+710,2025-06-20,Sneakers,Footwear,2,5005.27
+711,2025-02-04,Jeans,Clothing,1,1733.99
+712,2025-07-22,Water Bottle,Home,3,222.29
+713,2025-12-11,Notebook,Stationery,5,151.62
+714,2025-11-18,Wallet,Accessories,5,1211.84
+715,2025-09-24,Jeans,Clothing,2,1951.94
+716,2025-07-01,Keyboard,Electronics,8,1485.29
+717,2025-10-20,Coffee Maker,Home,2,5489.59
+718,2025-07-31,Keyboard,Electronics,2,1365.4
+719,2025-03-31,Headphones,Electronics,2,994.45
+720,2025-09-05,Pen Pack,Stationery,1,135.03
+721,2025-02-20,Pen Pack,Stationery,3,83.18
+722,2025-01-03,Jeans,Clothing,6,1966.99
+723,2025-01-24,Headphones,Electronics,2,4226.72
+724,2025-11-24,USB Cable,Electronics,1,275.15
+725,2025-05-20,Smartphone,Electronics,1,18066.4
+726,2025-10-09,Jacket,Clothing,1,4783.51
+727,2025-06-09,Coffee Maker,Home,5,5151.04
+728,2025-12-12,Mouse,Electronics,1,364.56
+729,2025-11-12,Sneakers,Footwear,1,5994.93
+730,2025-02-17,Wallet,Accessories,1,826.67
+731,2025-04-25,Smartphone,Electronics,5,44697.93
+732,2025-06-16,Wallet,Accessories,2,410.12
+733,2025-03-29,Jeans,Clothing,4,1826.55
+734,2025-06-16,Desk Lamp,Home,3,2083.86
+735,2025-05-03,Coffee Maker,Home,1,2785.77
+736,2025-04-17,Water Bottle,Home,2,983.16
+737,2025-03-30,Keyboard,Electronics,3,2693.34
+738,2025-06-16,Desk Lamp,Home,1,1389.43
+739,2025-12-17,Coffee Maker,Home,4,4148.87
+740,2025-03-13,Water Bottle,Home,5,707.91
+741,2025-09-30,Jeans,Clothing,2,1781.48
+742,2025-10-19,Jeans,Clothing,5,2391.35
+743,2025-11-10,Pen Pack,Stationery,2,81.89
+744,2025-01-01,Desk Lamp,Home,4,1217.49
+745,2025-12-26,Water Bottle,Home,2,453.5
+746,2025-10-07,USB Cable,Electronics,3,458.67
+747,2025-03-20,Jeans,Clothing,10,1938.11
+748,2025-03-15,Notebook,Stationery,3,176.5
+749,2025-08-22,Coffee Maker,Home,6,5663.52
+750,2025-07-16,Sneakers,Footwear,1,3835.25
+751,2025-07-30,Desk Lamp,Home,2,565.92
+752,2025-10-25,Notebook,Stationery,8,51.21
+753,2025-09-25,Coffee Maker,Home,1,4728.73
+754,2025-11-10,Mouse,Electronics,5,942.04
+755,2025-10-21,Jacket,Clothing,2,4849.25
+756,2025-12-22,Coffee Maker,Home,3,6306.5
+757,2025-10-24,Monitor,Electronics,2,20782.72
+758,2025-02-12,Smartphone,Electronics,2,57126.6
+759,2025-05-21,TShirt,Clothing,1,377.08
+760,2025-03-31,TShirt,Clothing,4,464.34
+761,2025-03-16,Coffee Maker,Home,6,2755.58
+762,2025-12-05,Wallet,Accessories,3,583.38
+763,2025-03-01,Mouse,Electronics,1,778.49
+764,2025-07-14,Formal Shoes,Footwear,2,2408.63
+765,2025-07-15,Jacket,Clothing,8,3794.25
+766,2025-08-10,Coffee Maker,Home,5,7120.95
+767,2025-05-11,Water Bottle,Home,2,817.52
+768,2025-12-13,Monitor,Electronics,1,7222.14
+769,2025-02-20,Pen Pack,Stationery,1,161.49
+770,2025-01-18,Laptop,Electronics,3,46706.46
+771,2025-12-29,Headphones,Electronics,1,3944.37
+772,2025-05-10,Jeans,Clothing,2,2390.51
+773,2025-12-21,Jacket,Clothing,1,4166.0
+774,2025-06-20,Mouse,Electronics,1,1275.36
+775,2025-04-13,Coffee Maker,Home,2,5801.35
+776,2025-04-22,Coffee Maker,Home,3,7457.26
+777,2025-02-06,Water Bottle,Home,3,820.79
+778,2025-01-20,Formal Shoes,Footwear,1,4739.23
+779,2025-09-02,Backpack,Accessories,2,2345.64
+780,2025-12-19,Notebook,Stationery,1,114.94
+781,2025-01-29,Keyboard,Electronics,2,3089.36
+782,2025-11-28,USB Cable,Electronics,1,175.57
+783,2025-02-24,Sneakers,Footwear,2,6367.68
+784,2025-04-09,Laptop,Electronics,3,62788.36
+785,2025-09-13,Desk Lamp,Home,8,2122.56
+786,2025-06-22,Mouse,Electronics,2,554.01
+787,2025-10-24,Power Bank,Electronics,6,995.88
+788,2025-11-13,Mouse,Electronics,1,1078.54
+789,2025-02-19,Wallet,Accessories,3,1719.1
+790,2025-11-01,Coffee Maker,Home,1,6786.81
+791,2025-03-03,Water Bottle,Home,2,456.27
+792,2025-06-21,Keyboard,Electronics,1,1095.46
+793,2025-08-13,Power Bank,Electronics,6,1005.82
+794,2025-09-07,Keyboard,Electronics,1,1202.36
+795,2025-12-21,Smartphone,Electronics,1,45910.76
+796,2025-03-31,Coffee Maker,Home,3,5496.29
+797,2025-08-03,Laptop,Electronics,2,50757.09
+798,2025-10-04,Pen Pack,Stationery,1,242.58
+799,2025-04-10,Headphones,Electronics,4,4363.27
+800,2025-12-10,Mouse,Electronics,1,737.03
